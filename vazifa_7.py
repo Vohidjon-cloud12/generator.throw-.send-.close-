@@ -34,7 +34,8 @@
 # # Бир неча Фибоначчи сонларини чиқариш
 # while True:
 #     print(next(fibonacci_generator))
-
+#
+## proggraming language:
 # def programming_language_generator(languages):
 #     try:
 #         index = 0
